@@ -1,0 +1,16 @@
+HOLIDAY STORE - DAILY TRANSACTION REPORT (DRT)
+19-03-2025 19:13
+Order 1, Could not process order data was corrupted, KeyError - 'battery_operated'
+Order 2, Could not process order data was corrupted, KeyError - 'color'
+Order 3, Could not process order data was corrupted, KeyError - 'battery_operated'
+Order 4, Could not process order data was corrupted, KeyError - 'battery_operated'
+Order 5, Could not process order data was corrupted, KeyError - 'battery_operated'
+Order 6, Could not process order data was corrupted, KeyError - 'is_lactose_free'
+Order 7, Could not process order data was corrupted, KeyError - 'glow'
+Order 8, Could not process order data was corrupted, KeyError - 'glow_nose'
+Order 9, Could not process order data was corrupted, KeyError - 'is_lactose_free'
+Order 10, Could not process order data was corrupted, KeyError - 'color'
+Order 11, Could not process order data was corrupted, KeyError - 'battery_operated'
+Order 12, Could not process order data was corrupted, KeyError - 'battery_operated'
+Order 13, Could not process order data was corrupted, KeyError - 'is_lactose_free'
+Order 14, Could not process order data was corrupted, KeyError - 'is_lactose_free'
