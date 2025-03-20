@@ -40,5 +40,5 @@ class ChristmasFactory(ThemeFactory):
             description=kwargs['description'],
             has_nuts=kwargs['has_nuts'],
             has_lactose=kwargs['has_lactose'],
-            variety=kwargs['variety']
+            colour=kwargs['colour']
         )
